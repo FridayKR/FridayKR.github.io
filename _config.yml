@@ -1,19 +1,19 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: Zeri
+description: '안녕하세요:)'
+url: 'http://FridayKR.github.io'
+baseurl: '/zeri'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Zeri'
+  # email: josh@joshgerdes.com
+  # twitter_username: joshgerdes
+  # facebook_username: joshgerdes
+  github_username:  FridayKR
+  linkedin_username:  yebeen-park-3833111aa
 
 defaults:
   -
