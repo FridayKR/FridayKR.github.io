@@ -320,5 +320,9 @@ example(of: "zip") {
 }
 ~~~
 ~~~
-
+——— Example of: zip ———
+P1: 1, P2: a
+P1: 2, P2: b
+P1: 3, P2: c
+Completed
 ~~~
