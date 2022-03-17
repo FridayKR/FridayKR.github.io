@@ -1,5 +1,5 @@
 # Site settings
-title: Zeri
+title: zeri
 description: 'Hello'
 url: 'https://fridaykr.github.io'
 baseurl: ''
@@ -8,7 +8,7 @@ baseurl: ''
 # disable_landing_page: true
 
 author:
-  name: 'Zeri'
+  name: 'zeri'
   # email: josh@joshgerdes.com
   # twitter_username: joshgerdes
   # facebook_username: joshgerdes
